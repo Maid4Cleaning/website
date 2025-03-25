@@ -7,7 +7,7 @@
     {
         "path": "/10-characteristics-of-extremely-organized-people-cleaning-and-organizing-tips/index.html",
         "type": "file",
-        "md5": "64b5e4a7080d4b147596d2391cc03452"
+        "md5": "23326a178e62bf526442c754d7680b1c"
     },
     {
         "path": "10-quick-and-easy-chores-you-can-do-in-30-seconds-or-less",
@@ -17,7 +17,27 @@
     {
         "path": "/10-quick-and-easy-chores-you-can-do-in-30-seconds-or-less/index.html",
         "type": "file",
-        "md5": "679fdbb3c4a137a9ba4b3d576354eb9c"
+        "md5": "193b7f625263b704637b605638d27cff"
+    },
+    {
+        "path": "10-smart-ways-to-clean-with-baking-soda-in-your-st-louis-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/10-smart-ways-to-clean-with-baking-soda-in-your-st-louis-home/index.html",
+        "type": "file",
+        "md5": "1e718b1aee2d08d4add0163c76612538"
+    },
+    {
+        "path": "10-surprising-items-you-can-wash-in-your-washing-machine-besides-clothes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/10-surprising-items-you-can-wash-in-your-washing-machine-besides-clothes/index.html",
+        "type": "file",
+        "md5": "e97b191dd447286aad13d2d71e884758"
     },
     {
         "path": "10-things-you-should-always-clean-every-day-without-question",
@@ -27,12 +47,42 @@
     {
         "path": "/10-things-you-should-always-clean-every-day-without-question/index.html",
         "type": "file",
-        "md5": "2abb98e8c8a3cc5695de86e2746dab75"
+        "md5": "6c851db115580d33bbc997a6b6f322af"
+    },
+    {
+        "path": "12-powerful-minimalist-decluttering-tips",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/12-powerful-minimalist-decluttering-tips/index.html",
+        "type": "file",
+        "md5": "67989e4e3809ed55035e423a78422814"
+    },
+    {
+        "path": "13-surprising-things-you-can-clean-with-glass-cleaner",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/13-surprising-things-you-can-clean-with-glass-cleaner/index.html",
+        "type": "file",
+        "md5": "23f1880fd0504a284f56ccf3c3a24158"
     },
     {
         "path": "404.html",
         "type": "file",
         "md5": "4d79ebdc2a5aa322fe0179ab616acb9e"
+    },
+    {
+        "path": "45-songs-to-get-you-in-the-cleaning-groove",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/45-songs-to-get-you-in-the-cleaning-groove/index.html",
+        "type": "file",
+        "md5": "afa58a215130f43bf6905f6ca7c53a5c"
     },
     {
         "path": "5-habits-to-keep-your-home-tidy-all-week-long",
@@ -42,7 +92,37 @@
     {
         "path": "/5-habits-to-keep-your-home-tidy-all-week-long/index.html",
         "type": "file",
-        "md5": "c5ecfae530f6f78a0236de382c9525c2"
+        "md5": "ace382a5a48d86361640b1b12f0c5720"
+    },
+    {
+        "path": "5-proven-strategies-for-sharing-household-chores-without-the-stress",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/5-proven-strategies-for-sharing-household-chores-without-the-stress/index.html",
+        "type": "file",
+        "md5": "72824a12fa2fc49398addebb7d14898d"
+    },
+    {
+        "path": "5-smart-dorm-room-organization-hacks-from-cleaning-pros",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/5-smart-dorm-room-organization-hacks-from-cleaning-pros/index.html",
+        "type": "file",
+        "md5": "0855c475008009f424d208921790c9c2"
+    },
+    {
+        "path": "5-smart-strategies-to-let-go-of-sentimental-clutter",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/5-smart-strategies-to-let-go-of-sentimental-clutter/index.html",
+        "type": "file",
+        "md5": "53a39a4ae64b0411213551d7e4058266"
     },
     {
         "path": "5-surprising-benefits-of-making-your-bed-every-morning",
@@ -52,7 +132,7 @@
     {
         "path": "/5-surprising-benefits-of-making-your-bed-every-morning/index.html",
         "type": "file",
-        "md5": "b3322b84b435a72c5cc71135cabd24f5"
+        "md5": "0704ee161244ea45d37237fa1d80b95e"
     },
     {
         "path": "5-unique-ways-to-celebrate-new-years-eve-with-a-clean-start",
@@ -62,7 +142,7 @@
     {
         "path": "/5-unique-ways-to-celebrate-new-years-eve-with-a-clean-start/index.html",
         "type": "file",
-        "md5": "550a0fba2250bfb7c050f74af54f0a52"
+        "md5": "a8342d8a9f00a9af4478051d418d0b26"
     },
     {
         "path": "6-kitchen-cleaning-hacks-every-busy-homeowner-needs",
@@ -72,7 +152,7 @@
     {
         "path": "/6-kitchen-cleaning-hacks-every-busy-homeowner-needs/index.html",
         "type": "file",
-        "md5": "48a1f0cd4b4c6e38bf865e0f34edaf8c"
+        "md5": "f547c8b7f1ee851f2a87aeb5e2ae1603"
     },
     {
         "path": "6-post-halloween-party-cleaning-tips-from-maid-4-cleaning",
@@ -82,7 +162,7 @@
     {
         "path": "/6-post-halloween-party-cleaning-tips-from-maid-4-cleaning/index.html",
         "type": "file",
-        "md5": "c545a5e3fc23d5715c6677b2de4dca39"
+        "md5": "87c136be276152d6b13029c928ad9de0"
     },
     {
         "path": "6-reasons-to-hire-a-professional-cleaning-company",
@@ -92,7 +172,7 @@
     {
         "path": "/6-reasons-to-hire-a-professional-cleaning-company/index.html",
         "type": "file",
-        "md5": "b66c648784521d5e3d1b816d651a00aa"
+        "md5": "8ba590ad4dc503b8943e213e112ad145"
     },
     {
         "path": "6-smart-ways-to-keep-mold-from-taking-over-your-fridge",
@@ -102,7 +182,7 @@
     {
         "path": "/6-smart-ways-to-keep-mold-from-taking-over-your-fridge/index.html",
         "type": "file",
-        "md5": "496c83a1c4096756f35c4941a29dd3ff"
+        "md5": "e7a3e4c39bf862255d3302c1680f4905"
     },
     {
         "path": "7-cleaning-habits-of-neat-people",
@@ -112,7 +192,47 @@
     {
         "path": "/7-cleaning-habits-of-neat-people/index.html",
         "type": "file",
-        "md5": "304eee07148413aa91bddaabfc2366b7"
+        "md5": "8dbb5f73437de08066134ab76b0d62e1"
+    },
+    {
+        "path": "7-creative-kitchen-uses-for-mason-jars",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/7-creative-kitchen-uses-for-mason-jars/index.html",
+        "type": "file",
+        "md5": "bec838ee43337fa303e3a8ccddd0186e"
+    },
+    {
+        "path": "8-smart-things-to-look-for-when-hiring-a-cleaning-service",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/8-smart-things-to-look-for-when-hiring-a-cleaning-service/index.html",
+        "type": "file",
+        "md5": "20cc6f48e7f7d6931b57e29494531ddc"
+    },
+    {
+        "path": "8-surprising-household-uses-for-witch-hazel",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/8-surprising-household-uses-for-witch-hazel/index.html",
+        "type": "file",
+        "md5": "bd9f780e6bdf23ca05ce3e4dc2b3df98"
+    },
+    {
+        "path": "8-ways-to-make-your-dorm-room-look-and-feel-bigger",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/8-ways-to-make-your-dorm-room-look-and-feel-bigger/index.html",
+        "type": "file",
+        "md5": "afc8b0bb876ff2dbd56ec47d5253035c"
     },
     {
         "path": "a-clean-home-a-clear-mindset",
@@ -122,7 +242,7 @@
     {
         "path": "/a-clean-home-a-clear-mindset/index.html",
         "type": "file",
-        "md5": "16b5f06b1cf3d5c744d76980588d86c7"
+        "md5": "e5f5a548714dbbeafdf5ed0fc6cb0bef"
     },
     {
         "path": "aaron-levy",
@@ -152,7 +272,7 @@
     {
         "path": "/aluminum-foil-for-cleaning-genius-hacks-for-a-sparkling-home/index.html",
         "type": "file",
-        "md5": "686ff2fbe4ce3aa54504c7e731bbd569"
+        "md5": "14b212b18f9b5a6f2df36f802616e581"
     },
     {
         "path": "anthony",
@@ -182,7 +302,7 @@
     {
         "path": "/are-you-cleaning-your-home-in-the-right-order/index.html",
         "type": "file",
-        "md5": "b9ce3e52ac1971edc30680dca42ad740"
+        "md5": "82bf3ddd58dbb4a151c8fd14ea6a119c"
     },
     {
         "path": "assets",
@@ -287,7 +407,7 @@
     {
         "path": "/avoid-these-common-window-cleaning-mistakes-for-sparkling-streak-free-results/index.html",
         "type": "file",
-        "md5": "6e199610cd9b71923e3417b2ba113f76"
+        "md5": "5c3c433fb47b45830c6bb8fef03ab53f"
     },
     {
         "path": "bagged-vs-bagless-vacuum-cleaners-which-one-is-right-for-you",
@@ -297,7 +417,7 @@
     {
         "path": "/bagged-vs-bagless-vacuum-cleaners-which-one-is-right-for-you/index.html",
         "type": "file",
-        "md5": "2752bc387920d029ed7f717ff95e5cd6"
+        "md5": "0064a7aaf6fd5c9266deef2a08961e70"
     },
     {
         "path": "baking-mishaps-and-how-to-clean-them",
@@ -307,7 +427,7 @@
     {
         "path": "/baking-mishaps-and-how-to-clean-them/index.html",
         "type": "file",
-        "md5": "50b24d27de38c6260809805f1ffd2d60"
+        "md5": "cbdb09a193adc99debf0ce57b655dfb1"
     },
     {
         "path": "bathroom-cleaning-kit-your-secret-to-a-sparkling-clean-space",
@@ -317,7 +437,7 @@
     {
         "path": "/bathroom-cleaning-kit-your-secret-to-a-sparkling-clean-space/index.html",
         "type": "file",
-        "md5": "5cf33afe119f775371116612a9b5a2a9"
+        "md5": "9f19a2e9b86daacc4813743da53c7c2a"
     },
     {
         "path": "ben-levin",
@@ -367,7 +487,7 @@
     {
         "path": "/ceiling-fan-cleaning/index.html",
         "type": "file",
-        "md5": "9ab7d99df783c6dbd8dbca8f85692bb3"
+        "md5": "51282ed47a7e2b1bec6f3b7144a62774"
     },
     {
         "path": "cindy-j-j",
@@ -387,7 +507,7 @@
     {
         "path": "/clean-dish-sponge-dos-and-donts-keep-your-kitchen-safe-and-hygienic/index.html",
         "type": "file",
-        "md5": "64aa718dd6a38c3b715247d8d7d9d207"
+        "md5": "c98783a7023ac8a383def1e59f215716"
     },
     {
         "path": "cleaning-and-preserving-soapstone-countertops",
@@ -397,7 +517,7 @@
     {
         "path": "/cleaning-and-preserving-soapstone-countertops/index.html",
         "type": "file",
-        "md5": "9ca72655eb69a3b639c87f30c559351f"
+        "md5": "c98b82d3f39a80d30e43d67cfd8ff2d7"
     },
     {
         "path": "cleaning-bed-pillows-a-fresh-start-for-a-good-nights-sleep",
@@ -407,7 +527,7 @@
     {
         "path": "/cleaning-bed-pillows-a-fresh-start-for-a-good-nights-sleep/index.html",
         "type": "file",
-        "md5": "6be0bd622367091e79333f790489d43c"
+        "md5": "e51fe70174abaf013eb5f513728b52ab"
     },
     {
         "path": "cleaning-mildew-from-shower-curtains-a-complete-guide",
@@ -417,7 +537,7 @@
     {
         "path": "/cleaning-mildew-from-shower-curtains-a-complete-guide/index.html",
         "type": "file",
-        "md5": "e651e7774d090123709fe000eac4173d"
+        "md5": "cfb9db2fd6113837a45831432f5a9218"
     },
     {
         "path": "cleaning-shower-door-tracks-a-step-by-step-guide",
@@ -427,7 +547,7 @@
     {
         "path": "/cleaning-shower-door-tracks-a-step-by-step-guide/index.html",
         "type": "file",
-        "md5": "50cd9634724a47c013c4cd4d54f91ed5"
+        "md5": "86faec8c3cc278db05ab87356cb7bcbf"
     },
     {
         "path": "cleaning-with-vinegar-the-dos-and-donts-for-a-sparkling-home",
@@ -437,7 +557,7 @@
     {
         "path": "/cleaning-with-vinegar-the-dos-and-donts-for-a-sparkling-home/index.html",
         "type": "file",
-        "md5": "13bd59a56aec17aa262a9c0eeff38aac"
+        "md5": "b556544fcea8c5571e392992769f0447"
     },
     {
         "path": "curtis-rother",
@@ -467,7 +587,27 @@
     {
         "path": "/declutter-your-bedroom-easy-daily-habits-for-a-clean-and-peaceful-space/index.html",
         "type": "file",
-        "md5": "6394a7c042f1b729fc449b85a615ea7d"
+        "md5": "63b29cd03acde557085526be225ca294"
+    },
+    {
+        "path": "declutter-your-home-reclaim-your-space-reclaim-your-peace",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/declutter-your-home-reclaim-your-space-reclaim-your-peace/index.html",
+        "type": "file",
+        "md5": "21bd1c3e93416b1bcee764c3ea553be2"
+    },
+    {
+        "path": "decorating-tips-that-help-you-organize-not-clutter-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/decorating-tips-that-help-you-organize-not-clutter-your-home/index.html",
+        "type": "file",
+        "md5": "eb18b6cd08af68d907136a8e7dfe6416"
     },
     {
         "path": "deep-cleaning-carpet-tips-achieve-a-spotless-home",
@@ -477,7 +617,7 @@
     {
         "path": "/deep-cleaning-carpet-tips-achieve-a-spotless-home/index.html",
         "type": "file",
-        "md5": "505b68f917c54c59070fef5d5c30b148"
+        "md5": "b1800cebfe34632d38a1f224f4428b9c"
     },
     {
         "path": "diy-cleaning-products-safe-and-effective-holiday-cleaning-solutions",
@@ -487,7 +627,7 @@
     {
         "path": "/diy-cleaning-products-safe-and-effective-holiday-cleaning-solutions/index.html",
         "type": "file",
-        "md5": "91253dc92cb6c8e19032b0481fd52e88"
+        "md5": "b3ca068faef11211d80474a5cf810f35"
     },
     {
         "path": "do-i-need-to-clean-houseplant-leaves-absolutely",
@@ -497,7 +637,7 @@
     {
         "path": "/do-i-need-to-clean-houseplant-leaves-absolutely/index.html",
         "type": "file",
-        "md5": "95a31e6a838b3c8a599403b54720a779"
+        "md5": "2f7595304fe20603329ef218377fac09"
     },
     {
         "path": "dont-mix-these-household-cleaners-what-you-need-to-know",
@@ -507,7 +647,7 @@
     {
         "path": "/dont-mix-these-household-cleaners-what-you-need-to-know/index.html",
         "type": "file",
-        "md5": "bd954735e7c39e024a1b14f09dabab29"
+        "md5": "8dabe62deaa31efbe9d2202cc982cfcd"
     },
     {
         "path": "eliminating-rust-from-your-bathroom-fixtures",
@@ -517,7 +657,7 @@
     {
         "path": "/eliminating-rust-from-your-bathroom-fixtures/index.html",
         "type": "file",
-        "md5": "48d16fb9cda96dd21eaab601eb25f94f"
+        "md5": "0bf926e631e06370ac10ab11e44cbcb7"
     },
     {
         "path": "ellen-rosenbaum",
@@ -557,7 +697,7 @@
     {
         "path": "/expert-tips-to-remove-makeup-stains-from-your-carpet/index.html",
         "type": "file",
-        "md5": "f217f648c0bc2de3873c3473ab9ccb1c"
+        "md5": "258c137d236892d2cdaf68c9f0c459c9"
     },
     {
         "path": "expert-tips-to-safely-clean-and-preserve-vintage-christmas-ornaments",
@@ -567,17 +707,27 @@
     {
         "path": "/expert-tips-to-safely-clean-and-preserve-vintage-christmas-ornaments/index.html",
         "type": "file",
-        "md5": "2da870307b90401972eaa13e6c0aea72"
+        "md5": "279207c0d1938532a91af658d9022696"
+    },
+    {
+        "path": "extend-the-lifespan-of-your-home-appliances-with-these-expert-cleaning-tips",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/extend-the-lifespan-of-your-home-appliances-with-these-expert-cleaning-tips/index.html",
+        "type": "file",
+        "md5": "8b79423184e9ddc03ee91e664d41281c"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "04d8798c565add57f77bd544f1b986c5"
+        "md5": "bae54413c844e14dce24e4f95e3d4849"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "64807c450fbf1341bcb1a25560d9d84a"
+        "md5": "13d9903d676483bb2e5196a26e923126"
     },
     {
         "path": "give-the-gift-of-time-this-holiday-season",
@@ -587,7 +737,7 @@
     {
         "path": "/give-the-gift-of-time-this-holiday-season/index.html",
         "type": "file",
-        "md5": "18ad00840a360691adf65f3b9e389820"
+        "md5": "77ab2e075f125e8f7bd2188cd248b96a"
     },
     {
         "path": "give-your-home-a-much-needed-refresh",
@@ -597,7 +747,7 @@
     {
         "path": "/give-your-home-a-much-needed-refresh/index.html",
         "type": "file",
-        "md5": "e2d57508d93a963b65327f86a5ecc320"
+        "md5": "6ce64f039246aa6d4b3540e82f2c15dd"
     },
     {
         "path": "gregg-sharpe",
@@ -608,6 +758,16 @@
         "path": "/gregg-sharpe/index.html",
         "type": "file",
         "md5": "6d00d5c2ee3490cdcb481f33d1d5d4cb"
+    },
+    {
+        "path": "hidden-storage-ideas-for-a-more-spacious-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hidden-storage-ideas-for-a-more-spacious-home/index.html",
+        "type": "file",
+        "md5": "4cf322575c563f0f09a4a323f78e096f"
     },
     {
         "path": "homepage",
@@ -663,76 +823,6 @@
         "path": "/homepage/contact/index.html",
         "type": "file",
         "md5": "4fbae2af723545e41a5860e3071f823f"
-    },
-    {
-        "path": "homepage/our-cleaning-process",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "homepage/our-cleaning-process/bathroom-cleaning",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/homepage/our-cleaning-process/bathroom-cleaning/index.html",
-        "type": "file",
-        "md5": "7f9fdd84542a9685c21224b4495528da"
-    },
-    {
-        "path": "homepage/our-cleaning-process/bedroom-cleaning",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/homepage/our-cleaning-process/bedroom-cleaning/index.html",
-        "type": "file",
-        "md5": "e859d5b276f4196815708100d1e30eee"
-    },
-    {
-        "path": "homepage/our-cleaning-process/dining-room-cleaning",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/homepage/our-cleaning-process/dining-room-cleaning/index.html",
-        "type": "file",
-        "md5": "f8665a46f8c9813a12b1f7bd815ebe5d"
-    },
-    {
-        "path": "/homepage/our-cleaning-process/index.html",
-        "type": "file",
-        "md5": "b0c8b0b42140690c1d62b552c50288ca"
-    },
-    {
-        "path": "homepage/our-cleaning-process/kitchen-cleaning",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/homepage/our-cleaning-process/kitchen-cleaning/index.html",
-        "type": "file",
-        "md5": "ee0f513632c4bc3605c8fba5567ad893"
-    },
-    {
-        "path": "homepage/our-cleaning-process/laundry-room-cleaning",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/homepage/our-cleaning-process/laundry-room-cleaning/index.html",
-        "type": "file",
-        "md5": "27fa5dd4e5e85daddd6e2da7983ff974"
-    },
-    {
-        "path": "homepage/our-cleaning-process/living-room-cleaning",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/homepage/our-cleaning-process/living-room-cleaning/index.html",
-        "type": "file",
-        "md5": "d516426e31225210e2cec3abd56313dd"
     },
     {
         "path": "homepage/services",
@@ -792,7 +882,7 @@
     {
         "path": "/homepage/services/index.html",
         "type": "file",
-        "md5": "52be8b72ef1dad45e862ff8a6311906e"
+        "md5": "b3f1497d627975564bbb0770a1522d12"
     },
     {
         "path": "homepage/services/residential",
@@ -850,19 +940,9 @@
         "md5": "5722d41695827bf2cacbd245a4ac672d"
     },
     {
-        "path": "homepage/services/residential/housekeeping",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/homepage/services/residential/housekeeping/index.html",
-        "type": "file",
-        "md5": "cd967df77b99f3c4ca845118562bac54"
-    },
-    {
         "path": "/homepage/services/residential/index.html",
         "type": "file",
-        "md5": "24706e4b3fa0b3d309257f85671d694c"
+        "md5": "470bc984a11298c29224496e2f9f2034"
     },
     {
         "path": "homepage/services/residential/laundry-service",
@@ -923,6 +1003,76 @@
         "path": "/homepage/services/residential/organizational-services/index.html",
         "type": "file",
         "md5": "61a7fbb96872b1c66110f04ca0aa592d"
+    },
+    {
+        "path": "homepage/services/residential/our-cleaning-process",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "homepage/services/residential/our-cleaning-process/bathroom-cleaning",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/homepage/services/residential/our-cleaning-process/bathroom-cleaning/index.html",
+        "type": "file",
+        "md5": "f65d5671e59c2cfda7c9b40c539c005d"
+    },
+    {
+        "path": "homepage/services/residential/our-cleaning-process/bedroom-cleaning",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/homepage/services/residential/our-cleaning-process/bedroom-cleaning/index.html",
+        "type": "file",
+        "md5": "b059ce0297a38ddabe89181a2ff4eecb"
+    },
+    {
+        "path": "homepage/services/residential/our-cleaning-process/dining-room-cleaning",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/homepage/services/residential/our-cleaning-process/dining-room-cleaning/index.html",
+        "type": "file",
+        "md5": "d2fa821750421c6ca5063d985a4c6db3"
+    },
+    {
+        "path": "/homepage/services/residential/our-cleaning-process/index.html",
+        "type": "file",
+        "md5": "044c473e825289b21dcdb10c7cfe984b"
+    },
+    {
+        "path": "homepage/services/residential/our-cleaning-process/kitchen-cleaning",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/homepage/services/residential/our-cleaning-process/kitchen-cleaning/index.html",
+        "type": "file",
+        "md5": "edc55462d1a0f0772fb1fd8e6138f727"
+    },
+    {
+        "path": "homepage/services/residential/our-cleaning-process/laundry-room-cleaning",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/homepage/services/residential/our-cleaning-process/laundry-room-cleaning/index.html",
+        "type": "file",
+        "md5": "f6a269e827e6eef482d4b7599ca1f9db"
+    },
+    {
+        "path": "homepage/services/residential/our-cleaning-process/living-room-cleaning",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/homepage/services/residential/our-cleaning-process/living-room-cleaning/index.html",
+        "type": "file",
+        "md5": "254b7ceeb017869417259e05a8ccdbf8"
     },
     {
         "path": "homepage/services/residential/post-construction-cleaning",
@@ -1082,7 +1232,7 @@
     {
         "path": "/household-items-you-should-clean-daily/index.html",
         "type": "file",
-        "md5": "3a795793c6791a1bba83cece759be9d2"
+        "md5": "f5fd735595ad0c8d4810ade66ae0b9f5"
     },
     {
         "path": "housekeeping-vs-maid-services-which-is-right-for-you",
@@ -1092,7 +1242,7 @@
     {
         "path": "/housekeeping-vs-maid-services-which-is-right-for-you/index.html",
         "type": "file",
-        "md5": "6a751647867440ea889e884a348291ed"
+        "md5": "fa1981ee9014d8fc7082d4e8a80dffc9"
     },
     {
         "path": "how-a-tidy-home-enhances-family-time",
@@ -1102,7 +1252,17 @@
     {
         "path": "/how-a-tidy-home-enhances-family-time/index.html",
         "type": "file",
-        "md5": "07fd167dc63f879cb2beffee9231cddf"
+        "md5": "3fd1458b02b5988774785e04943abe43"
+    },
+    {
+        "path": "how-often-should-you-wash-your-bedsheets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-often-should-you-wash-your-bedsheets/index.html",
+        "type": "file",
+        "md5": "6db61e80283d19c3ce5dbbb18e58d935"
     },
     {
         "path": "how-professional-cleaning-services-save-you-time-and-stress-during-the-holidays",
@@ -1112,7 +1272,7 @@
     {
         "path": "/how-professional-cleaning-services-save-you-time-and-stress-during-the-holidays/index.html",
         "type": "file",
-        "md5": "a549edbf05620da43f4faa7ab3edc28a"
+        "md5": "3fdda26a1a9235099df2a50e28278636"
     },
     {
         "path": "how-to-clean-a-burned-pot-easy-and-effective-methods",
@@ -1122,7 +1282,7 @@
     {
         "path": "/how-to-clean-a-burned-pot-easy-and-effective-methods/index.html",
         "type": "file",
-        "md5": "7c4c0f9f4b9175b0a4b822e316186219"
+        "md5": "242253ca61d2a22b5b300b0d73a95a08"
     },
     {
         "path": "how-to-clean-a-fabric-sofa-like-a-pro",
@@ -1132,7 +1292,7 @@
     {
         "path": "/how-to-clean-a-fabric-sofa-like-a-pro/index.html",
         "type": "file",
-        "md5": "264c92c3f5b8c0ef8c98b715b06feb60"
+        "md5": "d06a1628a6c0658c94d411ec7c1966e8"
     },
     {
         "path": "how-to-clean-a-fireplace-a-complete-guide-for-a-cozy-tidy-home",
@@ -1142,7 +1302,7 @@
     {
         "path": "/how-to-clean-a-fireplace-a-complete-guide-for-a-cozy-tidy-home/index.html",
         "type": "file",
-        "md5": "e7e002d075e0093fd86b48b8379abda7"
+        "md5": "9c1426321b9ce2c7f6f8ad257c36fae8"
     },
     {
         "path": "how-to-clean-a-glass-top-stove-without-scratching-it",
@@ -1152,7 +1312,7 @@
     {
         "path": "/how-to-clean-a-glass-top-stove-without-scratching-it/index.html",
         "type": "file",
-        "md5": "1fa338744d65eabc0d7b8d9e0d17d2e1"
+        "md5": "d28f3c906687feabebbd035d3104af29"
     },
     {
         "path": "how-to-clean-a-smelly-dishwasher-easy-steps-for-fresh-results",
@@ -1162,7 +1322,7 @@
     {
         "path": "/how-to-clean-a-smelly-dishwasher-easy-steps-for-fresh-results/index.html",
         "type": "file",
-        "md5": "1a3956527e4cfa53c42ea5f8dc89d828"
+        "md5": "e4674c190d381e77170dcdbd9bf8a633"
     },
     {
         "path": "how-to-clean-a-vacuum-cleaner-like-a-pro",
@@ -1172,7 +1332,7 @@
     {
         "path": "/how-to-clean-a-vacuum-cleaner-like-a-pro/index.html",
         "type": "file",
-        "md5": "d9e196fe5e5caba5a73544a773b4bd69"
+        "md5": "de7fa0d16926bb7f82d31c8f3f12bf3f"
     },
     {
         "path": "how-to-clean-a-window-air-conditioner",
@@ -1192,7 +1352,17 @@
     {
         "path": "/how-to-clean-an-area-rug-a-complete-guide/index.html",
         "type": "file",
-        "md5": "b804abbad77afa6b238771601b029904"
+        "md5": "0025ca255ac64fdabe9d246d2c2bfae3"
+    },
+    {
+        "path": "how-to-clean-and-disinfect-with-hydrogen-peroxide",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-to-clean-and-disinfect-with-hydrogen-peroxide/index.html",
+        "type": "file",
+        "md5": "0745d0bdfa8d8743438e912138f5c8ef"
     },
     {
         "path": "how-to-clean-and-maintain-the-overflow-hole",
@@ -1202,7 +1372,7 @@
     {
         "path": "/how-to-clean-and-maintain-the-overflow-hole/index.html",
         "type": "file",
-        "md5": "058b7bdf47f86ff47f3e4a28490b5727"
+        "md5": "5b739a429d654020e5aba0772940e651"
     },
     {
         "path": "how-to-clean-and-maintain-your-wood-floors-for-a-stunning-shine",
@@ -1212,7 +1382,7 @@
     {
         "path": "/how-to-clean-and-maintain-your-wood-floors-for-a-stunning-shine/index.html",
         "type": "file",
-        "md5": "5f4980909c4d3fad119174106489581d"
+        "md5": "f6436cd0ce2a4f40c2400a4db0cd1d85"
     },
     {
         "path": "how-to-clean-and-maintain-your-wood-furniture",
@@ -1222,7 +1392,7 @@
     {
         "path": "/how-to-clean-and-maintain-your-wood-furniture/index.html",
         "type": "file",
-        "md5": "6d180c12e919fdc1128b1211f8a81928"
+        "md5": "92f4e40c6dbcc08898caf4e3d1cf27fe"
     },
     {
         "path": "how-to-clean-baseboards-like-a-pro",
@@ -1232,7 +1402,7 @@
     {
         "path": "/how-to-clean-baseboards-like-a-pro/index.html",
         "type": "file",
-        "md5": "d931536835d8812e1dfc40be5959411c"
+        "md5": "240720c1aa3474465a0661812414d061"
     },
     {
         "path": "how-to-clean-ceramic-tile-floors-like-a-pro",
@@ -1242,7 +1412,7 @@
     {
         "path": "/how-to-clean-ceramic-tile-floors-like-a-pro/index.html",
         "type": "file",
-        "md5": "a945c4c84330265bec0da96270a5be52"
+        "md5": "16b84744a2c73eaa04446252b7340a20"
     },
     {
         "path": "how-to-clean-granite-floors-like-a-pro-a-step-by-step-guide",
@@ -1252,7 +1422,7 @@
     {
         "path": "/how-to-clean-granite-floors-like-a-pro-a-step-by-step-guide/index.html",
         "type": "file",
-        "md5": "273c72ea8927105d16faaa99bfa11884"
+        "md5": "ad7e5fddcda15e37e03165ac4c3e8c0a"
     },
     {
         "path": "how-to-clean-hard-to-reach-places-in-your-home",
@@ -1262,7 +1432,7 @@
     {
         "path": "/how-to-clean-hard-to-reach-places-in-your-home/index.html",
         "type": "file",
-        "md5": "1ccf1291908fa6628da70455db1d03b6"
+        "md5": "b03f6c04b9639f90507d7128e5f769b5"
     },
     {
         "path": "how-to-clean-hard-water-spots-the-ultimate-guide",
@@ -1272,7 +1442,7 @@
     {
         "path": "/how-to-clean-hard-water-spots-the-ultimate-guide/index.html",
         "type": "file",
-        "md5": "ce77212fabb2db0a5d366f60a2ec1355"
+        "md5": "fdb974383229f8d30423e83375749ce3"
     },
     {
         "path": "how-to-clean-kitchen-cabinets-a-step-by-step-guide",
@@ -1282,7 +1452,7 @@
     {
         "path": "/how-to-clean-kitchen-cabinets-a-step-by-step-guide/index.html",
         "type": "file",
-        "md5": "19ce59443dc867d89783ce847a1d5f3b"
+        "md5": "d2f6cf0ddff50731321d2b7a551f052a"
     },
     {
         "path": "how-to-clean-lampshades-the-ultimate-guide",
@@ -1292,7 +1462,7 @@
     {
         "path": "/how-to-clean-lampshades-the-ultimate-guide/index.html",
         "type": "file",
-        "md5": "3d29965fcc5f895e92700dee78db8ba6"
+        "md5": "17c139d9dba03a50ba25e76239b61b40"
     },
     {
         "path": "how-to-clean-marble-countertops-and-floors-the-right-way",
@@ -1302,7 +1472,7 @@
     {
         "path": "/how-to-clean-marble-countertops-and-floors-the-right-way/index.html",
         "type": "file",
-        "md5": "9a56b0446272cdac665bfc58f6ea5fe3"
+        "md5": "a88bf932e87cf14f2a9219538bc99705"
     },
     {
         "path": "how-to-clean-microfiber-cloths-properly-for-maximum-longevity",
@@ -1312,7 +1482,7 @@
     {
         "path": "/how-to-clean-microfiber-cloths-properly-for-maximum-longevity/index.html",
         "type": "file",
-        "md5": "b64d1dd27144b3d92d0cc7294425a8e5"
+        "md5": "03f6c554788e45efad2e354e1e0cfb13"
     },
     {
         "path": "how-to-clean-painted-walls-without-damaging-the-finish",
@@ -1322,7 +1492,7 @@
     {
         "path": "/how-to-clean-painted-walls-without-damaging-the-finish/index.html",
         "type": "file",
-        "md5": "24864130648f06a8be7865afbddd2432"
+        "md5": "f7b527ec696aa4f27243e4a393465985"
     },
     {
         "path": "how-to-clean-popcorn-ceilings",
@@ -1332,7 +1502,7 @@
     {
         "path": "/how-to-clean-popcorn-ceilings/index.html",
         "type": "file",
-        "md5": "065930f2aa2084a220f08b7417ca53a7"
+        "md5": "6554fd8de4cbcbb60c56dbb413a34112"
     },
     {
         "path": "how-to-clean-silverware-with-household-items",
@@ -1342,7 +1512,7 @@
     {
         "path": "/how-to-clean-silverware-with-household-items/index.html",
         "type": "file",
-        "md5": "9241fd70e124379ec39f2f1bdd627839"
+        "md5": "948ba916d246520e11954c944eaa9276"
     },
     {
         "path": "how-to-clean-soap-scum-in-tubs-and-showers",
@@ -1352,7 +1522,7 @@
     {
         "path": "/how-to-clean-soap-scum-in-tubs-and-showers/index.html",
         "type": "file",
-        "md5": "2b337c40c41239ddfb738a770c77de4c"
+        "md5": "e9dfd9b465afe4882ac664212168ed47"
     },
     {
         "path": "how-to-clean-the-gap-between-your-stove-and-countertop",
@@ -1362,7 +1532,7 @@
     {
         "path": "/how-to-clean-the-gap-between-your-stove-and-countertop/index.html",
         "type": "file",
-        "md5": "0dfe8e9d25eab0cd0dfb6eee9847d3f6"
+        "md5": "9d43cf7585631bb0b12590e823d0d7e4"
     },
     {
         "path": "how-to-clean-up-milk-spills-like-a-pro",
@@ -1372,7 +1542,7 @@
     {
         "path": "/how-to-clean-up-milk-spills-like-a-pro/index.html",
         "type": "file",
-        "md5": "e4dad5ac79fa32fdfba8ca38d04863ab"
+        "md5": "c07fea4a1734a4ca77d4b4dc7ea882c4"
     },
     {
         "path": "how-to-clean-walls-like-a-pro",
@@ -1382,7 +1552,17 @@
     {
         "path": "/how-to-clean-walls-like-a-pro/index.html",
         "type": "file",
-        "md5": "558888bf00dff1c6f0876a5266269ebe"
+        "md5": "b08d5831dfc12a8039a109b2fa5a1858"
+    },
+    {
+        "path": "how-to-clean-your-bedroom-closet-like-a-pro-without-losing-your-mind",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-to-clean-your-bedroom-closet-like-a-pro-without-losing-your-mind/index.html",
+        "type": "file",
+        "md5": "38482433be774f82855c4cdaa3fa21c1"
     },
     {
         "path": "how-to-clean-your-microwave",
@@ -1392,7 +1572,7 @@
     {
         "path": "/how-to-clean-your-microwave/index.html",
         "type": "file",
-        "md5": "fa3cdb64ddf385616c4c661462b947b7"
+        "md5": "6ec155bfe5f14fd3ca1e9c323fa84cce"
     },
     {
         "path": "how-to-clean-your-wicker-baskets",
@@ -1402,7 +1582,7 @@
     {
         "path": "/how-to-clean-your-wicker-baskets/index.html",
         "type": "file",
-        "md5": "24a0e54d7baa540487be76797ed6aa6b"
+        "md5": "9f11e7f9ffa6042ed81a4b91a8e76a8c"
     },
     {
         "path": "how-to-create-a-daily-cleaning-schedule-that-works",
@@ -1412,7 +1592,17 @@
     {
         "path": "/how-to-create-a-daily-cleaning-schedule-that-works/index.html",
         "type": "file",
-        "md5": "4aec9efb74e098568bf90730ad413b77"
+        "md5": "4ba01a2aa326043257241784419f6803"
+    },
+    {
+        "path": "how-to-declutter-and-get-organized-before-back-to-school-season",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-to-declutter-and-get-organized-before-back-to-school-season/index.html",
+        "type": "file",
+        "md5": "17603fcd3b99a207a7eb23febb837bd0"
     },
     {
         "path": "how-to-disinfect-and-maintain-your-humidifier-for-cleaner-air",
@@ -1422,7 +1612,7 @@
     {
         "path": "/how-to-disinfect-and-maintain-your-humidifier-for-cleaner-air/index.html",
         "type": "file",
-        "md5": "2afe9ef8a2a8ef0da221961bc198a09c"
+        "md5": "6e9740746ac4387ff423e67a2ed5f407"
     },
     {
         "path": "how-to-eliminate-odors-and-keep-your-home-smelling-fresh",
@@ -1432,7 +1622,7 @@
     {
         "path": "/how-to-eliminate-odors-and-keep-your-home-smelling-fresh/index.html",
         "type": "file",
-        "md5": "592117117696aa85a972e2a6aa02cbc9"
+        "md5": "2c32bb07dcd0ebed2ba418f88c2bb978"
     },
     {
         "path": "how-to-get-rid-of-glitter-a-cleaning-guide-for-every-surface",
@@ -1442,7 +1632,7 @@
     {
         "path": "/how-to-get-rid-of-glitter-a-cleaning-guide-for-every-surface/index.html",
         "type": "file",
-        "md5": "1ab131cd9c64d56447a36fc932e4c45f"
+        "md5": "d7e0ac9b07de3f891859a09946c2ae80"
     },
     {
         "path": "how-to-get-rid-of-grease-in-your-kitchen",
@@ -1452,7 +1642,7 @@
     {
         "path": "/how-to-get-rid-of-grease-in-your-kitchen/index.html",
         "type": "file",
-        "md5": "33b08f14def1a8e74faebbc18efc60f3"
+        "md5": "148c0cc6e09d6544e092c0170710c55c"
     },
     {
         "path": "how-to-keep-dog-dirt-outside-and-your-home-spotless",
@@ -1462,7 +1652,17 @@
     {
         "path": "/how-to-keep-dog-dirt-outside-and-your-home-spotless/index.html",
         "type": "file",
-        "md5": "37a9107b0e0f0a37402eb72ceb1efc0e"
+        "md5": "d431d44a92883dfabca8f8375a23659d"
+    },
+    {
+        "path": "how-to-keep-your-laundry-room-clean-and-fresh-year-round",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-to-keep-your-laundry-room-clean-and-fresh-year-round/index.html",
+        "type": "file",
+        "md5": "78e3c236500c3788c33b60a8c813b8c3"
     },
     {
         "path": "how-to-make-cleaning-fun-enjoy-a-spotless-home-with-a-smile",
@@ -1475,6 +1675,26 @@
         "md5": "c2929112e6bc2c204c9055f907709574"
     },
     {
+        "path": "how-to-make-your-guest-room-feel-like-a-boutique-retreat",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-to-make-your-guest-room-feel-like-a-boutique-retreat/index.html",
+        "type": "file",
+        "md5": "0654861a8e5ef9655484008983d34098"
+    },
+    {
+        "path": "how-to-naturally-clean-the-dirtiest-places-in-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-to-naturally-clean-the-dirtiest-places-in-your-home/index.html",
+        "type": "file",
+        "md5": "6b6de540cbb961ff19c9544cd59aa200"
+    },
+    {
         "path": "how-to-organize-kids-toys-and-keep-your-home-clutter-free",
         "type": "directory",
         "md5": false
@@ -1482,7 +1702,7 @@
     {
         "path": "/how-to-organize-kids-toys-and-keep-your-home-clutter-free/index.html",
         "type": "file",
-        "md5": "5ad057d2bc6dffbc2252458dd68ae096"
+        "md5": "8bdeed46d7439f24c201369550168893"
     },
     {
         "path": "how-to-organize-your-dining-room-for-a-clutter-free-home",
@@ -1492,7 +1712,17 @@
     {
         "path": "/how-to-organize-your-dining-room-for-a-clutter-free-home/index.html",
         "type": "file",
-        "md5": "15b19c5e9c910cabadc89bf002e6c262"
+        "md5": "b1d7bc8587d9f3f715d93c9b5f9651e2"
+    },
+    {
+        "path": "how-to-organize-your-nightstand-like-a-pro-and-why-it-matters",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-to-organize-your-nightstand-like-a-pro-and-why-it-matters/index.html",
+        "type": "file",
+        "md5": "e31bc7ad797f12ecf7cf734774322a66"
     },
     {
         "path": "how-to-properly-clean-different-types-of-washing-machines",
@@ -1502,7 +1732,7 @@
     {
         "path": "/how-to-properly-clean-different-types-of-washing-machines/index.html",
         "type": "file",
-        "md5": "7dd0ccb781bf72a8d0bc5516c35f19f6"
+        "md5": "c80ef9d1de67a8dfaf9e3360d731fcca"
     },
     {
         "path": "how-to-remove-candle-wax-from-floors-a-complete-guide",
@@ -1512,7 +1742,7 @@
     {
         "path": "/how-to-remove-candle-wax-from-floors-a-complete-guide/index.html",
         "type": "file",
-        "md5": "5ce94c068308c8c6b287186d497e3dc5"
+        "md5": "a57e788dd3002e15cf422b7216707927"
     },
     {
         "path": "how-to-remove-candle-wax-from-surfaces",
@@ -1522,7 +1752,7 @@
     {
         "path": "/how-to-remove-candle-wax-from-surfaces/index.html",
         "type": "file",
-        "md5": "5544753fe379d979d47224e3ada2654e"
+        "md5": "3a5f124a95fdbb88445c5263e7317e7e"
     },
     {
         "path": "how-to-remove-candy-and-chocolate-stains",
@@ -1532,7 +1762,7 @@
     {
         "path": "/how-to-remove-candy-and-chocolate-stains/index.html",
         "type": "file",
-        "md5": "705aff64bbad35e63b6e17b0e580d912"
+        "md5": "fdc9cc273ff6462a6c86233abba2641f"
     },
     {
         "path": "how-to-remove-crayon-from-walls-without-damaging-paint",
@@ -1542,7 +1772,7 @@
     {
         "path": "/how-to-remove-crayon-from-walls-without-damaging-paint/index.html",
         "type": "file",
-        "md5": "97a3fe45d543d7358b3b50e1fbcda098"
+        "md5": "c9d5ecfa248ca9021d20ef5d75e67f88"
     },
     {
         "path": "how-to-remove-rust-stains-from-your-bathtub-a-complete-guide",
@@ -1552,7 +1782,7 @@
     {
         "path": "/how-to-remove-rust-stains-from-your-bathtub-a-complete-guide/index.html",
         "type": "file",
-        "md5": "dcc3a8572f4c328ab72431213e418d70"
+        "md5": "10948d3f0bc764be076172341362cbf5"
     },
     {
         "path": "how-to-remove-rust-stains-from-your-metal-kitchen-items",
@@ -1562,7 +1792,7 @@
     {
         "path": "/how-to-remove-rust-stains-from-your-metal-kitchen-items/index.html",
         "type": "file",
-        "md5": "db7dcf3b97cfa91969afcc8abd207434"
+        "md5": "6b3856e0065739ce242ed5a3217a2257"
     },
     {
         "path": "how-to-remove-stains-from-leather-furniture-a-complete-guide",
@@ -1572,7 +1802,7 @@
     {
         "path": "/how-to-remove-stains-from-leather-furniture-a-complete-guide/index.html",
         "type": "file",
-        "md5": "0e597f12932b0de7ec204fea3063627d"
+        "md5": "8910c49154671f2b880977aceea8bc6e"
     },
     {
         "path": "how-to-remove-sticker-residue-and-other-adhesive-substances",
@@ -1582,7 +1812,7 @@
     {
         "path": "/how-to-remove-sticker-residue-and-other-adhesive-substances/index.html",
         "type": "file",
-        "md5": "57aa9219688a9fab029b1c8039bf00e5"
+        "md5": "6591998193f1cadbc1f5229ba73a1666"
     },
     {
         "path": "how-to-remove-toilet-bowl-rings-easy-and-effective-methods",
@@ -1592,7 +1822,7 @@
     {
         "path": "/how-to-remove-toilet-bowl-rings-easy-and-effective-methods/index.html",
         "type": "file",
-        "md5": "8246a66bf63bb0dc2d672e40b3cd2925"
+        "md5": "0b86cfb388972dcb8675c23215d73123"
     },
     {
         "path": "how-to-stop-making-these-5-common-cleaning-mistakes",
@@ -1602,7 +1832,17 @@
     {
         "path": "/how-to-stop-making-these-5-common-cleaning-mistakes/index.html",
         "type": "file",
-        "md5": "3a2825709b2a26979f340a4acb024fe2"
+        "md5": "21f27e5b66f2e81af851898637205c2a"
+    },
+    {
+        "path": "how-to-store-seasonal-clothes-smart-tips-for-a-cleaner-clutter-free-closet-in-st-louis",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-to-store-seasonal-clothes-smart-tips-for-a-cleaner-clutter-free-closet-in-st-louis/index.html",
+        "type": "file",
+        "md5": "f158b2c7f1ec81929434e4a69ab0a304"
     },
     {
         "path": "how-to-vacuum-properly-expert-tips-for-a-cleaner-home",
@@ -1612,7 +1852,7 @@
     {
         "path": "/how-to-vacuum-properly-expert-tips-for-a-cleaner-home/index.html",
         "type": "file",
-        "md5": "f1f34c908c05cde5bf50087301552895"
+        "md5": "57fdc7695f913d4ee90b5215d5e65afa"
     },
     {
         "path": "how-to-wash-cookware-and-bakeware",
@@ -1622,12 +1862,12 @@
     {
         "path": "/how-to-wash-cookware-and-bakeware/index.html",
         "type": "file",
-        "md5": "a677199753fdc7dfd7ec247b11f1a4b4"
+        "md5": "4588c51f4391f60bfc4f35af4484061f"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "24b854d9b376c5ea65ea97cc3dcdc53e"
+        "md5": "b6d26685bfab10a671533220961857d8"
     },
     {
         "path": "jackie-k",
@@ -1757,7 +1997,7 @@
     {
         "path": "/kelley-hower/index.html",
         "type": "file",
-        "md5": "7bfbc6a32a949344fe031a2db4ee378a"
+        "md5": "b28f1f4fe8e26730dcb94fb256da2966"
     },
     {
         "path": "kellie-christensen-2",
@@ -1807,7 +2047,7 @@
     {
         "path": "/kitchen-countertop-cleaners-safe-and-effective-solutions-for-every-surface/index.html",
         "type": "file",
-        "md5": "7dc9dc29b73637134b6c25a859fe703b"
+        "md5": "157c068f2aa161b021b2e086da99c351"
     },
     {
         "path": "kitchen-garbage-can-cleaning-the-overlooked-task-that-makes-a-big-difference",
@@ -1817,7 +2057,17 @@
     {
         "path": "/kitchen-garbage-can-cleaning-the-overlooked-task-that-makes-a-big-difference/index.html",
         "type": "file",
-        "md5": "e821513c4f3e880adf9f1a299a03b4bc"
+        "md5": "b57ec53ea091a28073608f949eacd04f"
+    },
+    {
+        "path": "laundry-room-ideas-for-better-functionality",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/laundry-room-ideas-for-better-functionality/index.html",
+        "type": "file",
+        "md5": "0bcc73e8dc1c13e68235ecd34c8a0b35"
     },
     {
         "path": "lejla-mccormick",
@@ -1840,6 +2090,16 @@
         "md5": "3911f36643ddbdbdf935a3fffa10f059"
     },
     {
+        "path": "mastering-linen-closet-organization-your-guide-to-a-clutter-free-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/mastering-linen-closet-organization-your-guide-to-a-clutter-free-home/index.html",
+        "type": "file",
+        "md5": "f0648df45204a98f9eb0a6df863c4bfc"
+    },
+    {
         "path": "max-zim",
         "type": "directory",
         "md5": false
@@ -1847,7 +2107,17 @@
     {
         "path": "/max-zim/index.html",
         "type": "file",
-        "md5": "509feb3822a24dfaa61be126babb1351"
+        "md5": "c9babb30d64e8560cce9dfb41bb8cb05"
+    },
+    {
+        "path": "maximize-space-in-your-tiny-apartment-saint-louis-edition",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/maximize-space-in-your-tiny-apartment-saint-louis-edition/index.html",
+        "type": "file",
+        "md5": "7c46225bf4355e9d6a47c3da9e7bfffa"
     },
     {
         "path": "media",
@@ -8852,7 +9122,7 @@
     {
         "path": "/more-joy-less-stress-this-holiday-season-tips-to-simplify-your-holidays/index.html",
         "type": "file",
-        "md5": "6fe0cf9dda048fab583b41b3aec2382a"
+        "md5": "9cf96cb1bfb03349e904e799e9204158"
     },
     {
         "path": "my-sink-stinks-how-to-get-rid-of-unpleasant-odors-for-good",
@@ -8862,7 +9132,7 @@
     {
         "path": "/my-sink-stinks-how-to-get-rid-of-unpleasant-odors-for-good/index.html",
         "type": "file",
-        "md5": "c1df28efe60108d51c637137458ddc1c"
+        "md5": "a7ac3971c4d34ada0090c9348e3dcfa0"
     },
     {
         "path": "nancy-giacone",
@@ -8892,7 +9162,7 @@
     {
         "path": "/neat-freak-cleaning-tips-transform-your-home-with-these-expert-hacks/index.html",
         "type": "file",
-        "md5": "a475465385d1e7aadbfab6fc1e27c145"
+        "md5": "ee01319fbced73160837a1337f15c4ba"
     },
     {
         "path": "nick-baldi",
@@ -8922,7 +9192,17 @@
     {
         "path": "/old-man-best/index.html",
         "type": "file",
-        "md5": "25ae4910cd919b1ae624e8cda22dfb1a"
+        "md5": "09eba3e9579f3f6f3f9fbd01146ed3aa"
+    },
+    {
+        "path": "organizing-your-space-to-maximize-relaxation-post-holiday-cleaning-tips",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/organizing-your-space-to-maximize-relaxation-post-holiday-cleaning-tips/index.html",
+        "type": "file",
+        "md5": "69bc0967d111eb27ae1ba932e78bc628"
     },
     {
         "path": "patrick-miller",
@@ -8942,7 +9222,7 @@
     {
         "path": "/pet-hair-under-control/index.html",
         "type": "file",
-        "md5": "4118e4cc838e4e38404b363edffd2d2f"
+        "md5": "2a8888fe4644a64744a5f5f36c2fb1a7"
     },
     {
         "path": "post-construction-cleaning-where-to-start",
@@ -8952,7 +9232,7 @@
     {
         "path": "/post-construction-cleaning-where-to-start/index.html",
         "type": "file",
-        "md5": "84d30d3de734ade171a3523642757aaf"
+        "md5": "d6ab59a9d97f6f493c7b94ac93be787c"
     },
     {
         "path": "post-vacation-cleaning-tips-how-to-return-to-a-fresh-and-tidy-home",
@@ -8962,7 +9242,7 @@
     {
         "path": "/post-vacation-cleaning-tips-how-to-return-to-a-fresh-and-tidy-home/index.html",
         "type": "file",
-        "md5": "f435f312943890b201fdd572df5d8e28"
+        "md5": "719c1fde8bd3fc27c9db6bb02fad1a44"
     },
     {
         "path": "professional-bedroom-cleaning-services-in-saint-louis",
@@ -8972,7 +9252,7 @@
     {
         "path": "/professional-bedroom-cleaning-services-in-saint-louis/index.html",
         "type": "file",
-        "md5": "364d0f89c7e546ac2abd06eab9c78b30"
+        "md5": "a5ca02ea0495fb32facfe86905b71c7b"
     },
     {
         "path": "reid-thompson",
@@ -8992,7 +9272,7 @@
     {
         "path": "/removing-oil-stains-from-walls/index.html",
         "type": "file",
-        "md5": "6a25346f10e4b840cb51b151caa22847"
+        "md5": "5901e945c085e885a49ba4731a297a97"
     },
     {
         "path": "rene-callahan",
@@ -9027,7 +9307,7 @@
     {
         "path": "/safely-clean-your-tv-screen-for-the-big-game/index.html",
         "type": "file",
-        "md5": "15739c8c8fd085fdbf30aad1851e9e7d"
+        "md5": "3156e65507f765ce6918856e3378a1ca"
     },
     {
         "path": "sarah-cusworth",
@@ -9047,7 +9327,17 @@
     {
         "path": "/save-time-during-the-school-year-keep-your-home-clean-without-the-stress/index.html",
         "type": "file",
-        "md5": "add7d30944b64381dc5260b121e83647"
+        "md5": "328603dd6c3a4277c04570994bda9c66"
+    },
+    {
+        "path": "school-papers-everywhere-how-to-keep-kids-schoolwork-organized",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/school-papers-everywhere-how-to-keep-kids-schoolwork-organized/index.html",
+        "type": "file",
+        "md5": "3d1bd362650aea86259346f071a0b986"
     },
     {
         "path": "setting-realistic-cleaning-goals-for-the-new-year-in-st-louis",
@@ -9057,7 +9347,7 @@
     {
         "path": "/setting-realistic-cleaning-goals-for-the-new-year-in-st-louis/index.html",
         "type": "file",
-        "md5": "ebe5b4223d29897b218fc1585a650718"
+        "md5": "b982df1e1dcf4c6d88e05ed9e040223c"
     },
     {
         "path": "shandell-thompson",
@@ -9077,7 +9367,7 @@
     {
         "path": "/shoe-organization-tips-take-back-your-closet-space/index.html",
         "type": "file",
-        "md5": "ea44602bfb66fcdd16463c4103715a3c"
+        "md5": "fc832b1b32e07fb0897d585235c70382"
     },
     {
         "path": "simple-cleaning-habits-for-a-healthier-home-this-year",
@@ -9087,17 +9377,27 @@
     {
         "path": "/simple-cleaning-habits-for-a-healthier-home-this-year/index.html",
         "type": "file",
-        "md5": "2a5d2ca28e4e9dfdab5ce9c42c5847d9"
+        "md5": "eeeb5db58868bd799620dc2220aaedf8"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "cfc350a4e3ca46eb44a5523a78ec19be"
+        "md5": "95bfd8ab3a8ed2bde9d44d3c3e81073e"
     },
     {
         "path": "sitemap.xsl",
         "type": "file",
         "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "smart-and-stylish-under-bed-storage-ideas-for-a-clutter-free-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/smart-and-stylish-under-bed-storage-ideas-for-a-clutter-free-home/index.html",
+        "type": "file",
+        "md5": "c88b867d2a65e3cc4663397e85df07ae"
     },
     {
         "path": "smart-housekeeping-habits-for-a-clean-and-tidy-home",
@@ -9107,7 +9407,7 @@
     {
         "path": "/smart-housekeeping-habits-for-a-clean-and-tidy-home/index.html",
         "type": "file",
-        "md5": "32c65f4aacac4ea48ab1daa7eb996579"
+        "md5": "e0fea9371934e524f28c8899f9613b2e"
     },
     {
         "path": "special-care-required-how-to-clean-a-marble-shower",
@@ -9117,7 +9417,7 @@
     {
         "path": "/special-care-required-how-to-clean-a-marble-shower/index.html",
         "type": "file",
-        "md5": "2e7b8efbda41a592964fc675e5bccf8e"
+        "md5": "9d490aac684af94140b658285819b1cb"
     },
     {
         "path": "spring-cleaning-starts-now",
@@ -9127,7 +9427,7 @@
     {
         "path": "/spring-cleaning-starts-now/index.html",
         "type": "file",
-        "md5": "166f6ce82740772ba4d86dfc8d9e8793"
+        "md5": "6bed305784148cc3fbda69b1fdd91178"
     },
     {
         "path": "spring-into-a-clean-home-your-ultimate-spring-cleaning-checklist",
@@ -9137,7 +9437,7 @@
     {
         "path": "/spring-into-a-clean-home-your-ultimate-spring-cleaning-checklist/index.html",
         "type": "file",
-        "md5": "4b71dfc399aed041458b35dc58a83b19"
+        "md5": "bcaeb6bb9bafb0db98c15d86ab244d91"
     },
     {
         "path": "stefanie-mott",
@@ -9162,12 +9462,22 @@
     {
         "path": "/tags/cleaning-tips/index.html",
         "type": "file",
-        "md5": "10aa7081c2f659a29dec6518843817ed"
+        "md5": "cbc1c64e4b7bfb0a8d54ac54f82cc096"
+    },
+    {
+        "path": "tags/home-organizing",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/home-organizing/index.html",
+        "type": "file",
+        "md5": "2b12bbc3c5a49bbb56110f48841b1ba2"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "4aa1c6d7a1db9982cec777789a267275"
+        "md5": "4c75c11c9a60578df58d9e1196272740"
     },
     {
         "path": "tags/reviews",
@@ -9187,7 +9497,7 @@
     {
         "path": "/tan-n/index.html",
         "type": "file",
-        "md5": "9190850ef860d1aa5b0a9a6244a85142"
+        "md5": "620789e9fbc6f2bdb36207307b72e34d"
     },
     {
         "path": "teresa-mitchell",
@@ -9207,7 +9517,7 @@
     {
         "path": "/the-basics-of-kitchen-cabinet-cleaning-keep-your-cabinets-looking-fresh/index.html",
         "type": "file",
-        "md5": "21e48d326813791701689f7f17a4f323"
+        "md5": "14cb1f433d7234154f3d3bd94e63afd7"
     },
     {
         "path": "the-best-grout-cleaning-tools-for-a-spotless-home",
@@ -9217,7 +9527,7 @@
     {
         "path": "/the-best-grout-cleaning-tools-for-a-spotless-home/index.html",
         "type": "file",
-        "md5": "051a103c6d3a302535997b4f85a49335"
+        "md5": "9cb7bb6604ea71fb5b814448b10fa1d9"
     },
     {
         "path": "the-best-way-to-clean-dishes-a-guide-to-a-sparkling-kitchen",
@@ -9227,7 +9537,7 @@
     {
         "path": "/the-best-way-to-clean-dishes-a-guide-to-a-sparkling-kitchen/index.html",
         "type": "file",
-        "md5": "56659550459b7c94ac678c7e1c4d5b1e"
+        "md5": "cb375437c6ea5240dd162c8ccd701588"
     },
     {
         "path": "the-best-way-to-clean-vomit-out-of-carpet-a-maids-expert-guide",
@@ -9237,7 +9547,7 @@
     {
         "path": "/the-best-way-to-clean-vomit-out-of-carpet-a-maids-expert-guide/index.html",
         "type": "file",
-        "md5": "98f36ecb646319ff96f1edfc652e012e"
+        "md5": "aef7f73b8150e2c68d0ea7e1df679711"
     },
     {
         "path": "the-best-ways-to-clean-chrome-fixtures-and-keep-them-shining",
@@ -9247,7 +9557,17 @@
     {
         "path": "/the-best-ways-to-clean-chrome-fixtures-and-keep-them-shining/index.html",
         "type": "file",
-        "md5": "893c9bae07e45b04c8d3d2e843776aac"
+        "md5": "d5a1f77266259b13cf85d417c2c05351"
+    },
+    {
+        "path": "the-dos-and-donts-of-open-shelving-clean-chic-and-clutter-free",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-dos-and-donts-of-open-shelving-clean-chic-and-clutter-free/index.html",
+        "type": "file",
+        "md5": "638fcc17aacf4be0ba021981d07ddc29"
     },
     {
         "path": "the-magic-of-a-professionally-cleaned-living-room",
@@ -9257,7 +9577,7 @@
     {
         "path": "/the-magic-of-a-professionally-cleaned-living-room/index.html",
         "type": "file",
-        "md5": "eded8d7e921169467f06434731dded37"
+        "md5": "3a7114e841bb71f2d86af89d41dbd605"
     },
     {
         "path": "the-most-cluttered-places-in-your-home-and-how-to-tame-them",
@@ -9267,7 +9587,7 @@
     {
         "path": "/the-most-cluttered-places-in-your-home-and-how-to-tame-them/index.html",
         "type": "file",
-        "md5": "ca13ed3ecfa36f2c65eb35affe6370b2"
+        "md5": "c74968b4e4459a9e06decab5a1c2dd17"
     },
     {
         "path": "the-ultimate-deep-cleaning-guide-refresh-your-home-for-spring",
@@ -9277,7 +9597,7 @@
     {
         "path": "/the-ultimate-deep-cleaning-guide-refresh-your-home-for-spring/index.html",
         "type": "file",
-        "md5": "c602bc31a4d776af2c353c973cc0b725"
+        "md5": "cf8f91143e1db283ac5ff2b7a0720f94"
     },
     {
         "path": "the-ultimate-guide-to-carpet-cleaning-for-saint-louis-homes",
@@ -9287,7 +9607,7 @@
     {
         "path": "/the-ultimate-guide-to-carpet-cleaning-for-saint-louis-homes/index.html",
         "type": "file",
-        "md5": "be8023bd56038198af7472e1468e7591"
+        "md5": "57fce7ada25fc8d68f85e2516362d370"
     },
     {
         "path": "the-ultimate-guide-to-cleaning-and-maintaining-your-garbage-disposal",
@@ -9297,7 +9617,7 @@
     {
         "path": "/the-ultimate-guide-to-cleaning-and-maintaining-your-garbage-disposal/index.html",
         "type": "file",
-        "md5": "c7269b0ac9bf91e96d735dadc076d2dc"
+        "md5": "78f1a5ed1d1378e0ae8ee147d772c8ba"
     },
     {
         "path": "the-ultimate-guide-to-cleaning-curtains-and-drapes-like-a-pro",
@@ -9307,7 +9627,7 @@
     {
         "path": "/the-ultimate-guide-to-cleaning-curtains-and-drapes-like-a-pro/index.html",
         "type": "file",
-        "md5": "a75d9f58e6c19cf722f3662065d9806c"
+        "md5": "b2ef3cb03a4499e43faece960619de2c"
     },
     {
         "path": "the-ultimate-guide-to-cleaning-grout-like-a-pro",
@@ -9317,7 +9637,7 @@
     {
         "path": "/the-ultimate-guide-to-cleaning-grout-like-a-pro/index.html",
         "type": "file",
-        "md5": "2eb6c6476bdf2b06cde5f4ba649f21ab"
+        "md5": "76bc515368713882ee4d343fdc10d0df"
     },
     {
         "path": "the-ultimate-guide-to-cleaning-wine-glasses-for-a-crystal-clear-finish",
@@ -9327,7 +9647,7 @@
     {
         "path": "/the-ultimate-guide-to-cleaning-wine-glasses-for-a-crystal-clear-finish/index.html",
         "type": "file",
-        "md5": "f14172b502d57f3bc60a2f868b37eb00"
+        "md5": "99b24dd5292a2ed1cdde9250b6a7a253"
     },
     {
         "path": "the-ultimate-guide-to-cleaning-your-dogs-bed",
@@ -9337,7 +9657,7 @@
     {
         "path": "/the-ultimate-guide-to-cleaning-your-dogs-bed/index.html",
         "type": "file",
-        "md5": "e58bb6e4384134a1b3bdd0d0ffb0a62e"
+        "md5": "0b64930810c017585b93fd06dbd7e9bf"
     },
     {
         "path": "the-ultimate-guide-to-cleaning-your-microwave",
@@ -9347,7 +9667,7 @@
     {
         "path": "/the-ultimate-guide-to-cleaning-your-microwave/index.html",
         "type": "file",
-        "md5": "2ee6501cd2c62e97073d2b7485db85f5"
+        "md5": "b211bf5f8d6520dc66c69f550c17e16c"
     },
     {
         "path": "the-ultimate-guide-to-eliminating-dog-hair-and-pet-odor-from-your-home",
@@ -9357,7 +9677,7 @@
     {
         "path": "/the-ultimate-guide-to-eliminating-dog-hair-and-pet-odor-from-your-home/index.html",
         "type": "file",
-        "md5": "a357f546c25cb9729f066779b9c00321"
+        "md5": "3ea2bcded5973d02df710ef864803f74"
     },
     {
         "path": "the-ultimate-guide-to-paper-towel-alternatives-sustainable-cost-effective-and-better-for-your-home",
@@ -9367,7 +9687,7 @@
     {
         "path": "/the-ultimate-guide-to-paper-towel-alternatives-sustainable-cost-effective-and-better-for-your-home/index.html",
         "type": "file",
-        "md5": "567a76349f2d2d42664b30ed6b9a9ea5"
+        "md5": "43d444ccd4085cd4ee983cb1bfea068f"
     },
     {
         "path": "the-ultimate-january-cleaning-checklist",
@@ -9377,7 +9697,7 @@
     {
         "path": "/the-ultimate-january-cleaning-checklist/index.html",
         "type": "file",
-        "md5": "16d8bf5b4d0c649b5b1145898ccbdc01"
+        "md5": "109bdea5f5b848cce6ad87646fad15c3"
     },
     {
         "path": "the-ultimate-morning-cleaning-routine-for-a-tidy-home",
@@ -9387,7 +9707,7 @@
     {
         "path": "/the-ultimate-morning-cleaning-routine-for-a-tidy-home/index.html",
         "type": "file",
-        "md5": "0ca3103512f51756db9499c7f0c2efdb"
+        "md5": "ef7ac1afccf96b055da3dfc87c93427a"
     },
     {
         "path": "thetree85",
@@ -9407,7 +9727,7 @@
     {
         "path": "/things-that-gross-out-guests-and-how-to-fix-them/index.html",
         "type": "file",
-        "md5": "990784f8fce8e23d2958d91e06ebb5f9"
+        "md5": "c38bfc5441f3c33f2cac9797e04e9b7e"
     },
     {
         "path": "things-you-can-clean-in-the-dishwasher",
@@ -9417,7 +9737,7 @@
     {
         "path": "/things-you-can-clean-in-the-dishwasher/index.html",
         "type": "file",
-        "md5": "02aa8d254eb57b385f63aac487958556"
+        "md5": "043fb3130987dc5c14ccc784a5e9b233"
     },
     {
         "path": "things-you-forget-to-clean-a-checklist-for-a-truly-clean-home",
@@ -9427,7 +9747,7 @@
     {
         "path": "/things-you-forget-to-clean-a-checklist-for-a-truly-clean-home/index.html",
         "type": "file",
-        "md5": "75587e36f38871e954ac1bffa2197c62"
+        "md5": "bda6fc41e0a3b825370e50c48c102a0d"
     },
     {
         "path": "time-the-most-precious-gift-you-can-give",
@@ -9437,7 +9757,7 @@
     {
         "path": "/time-the-most-precious-gift-you-can-give/index.html",
         "type": "file",
-        "md5": "8d406447c256a1401587b0a1a2f5ad5b"
+        "md5": "7406b111e64f5fedc34904ecbae0c541"
     },
     {
         "path": "transform-your-bedroom-the-art-of-making-the-perfect-bed",
@@ -9447,7 +9767,7 @@
     {
         "path": "/transform-your-bedroom-the-art-of-making-the-perfect-bed/index.html",
         "type": "file",
-        "md5": "dd9a4633b0720e6739789d0f1fc3603b"
+        "md5": "31ca582897283d20c35af008471489cc"
     },
     {
         "path": "transform-your-closet-the-ultimate-guide-to-decluttering-and-organizing",
@@ -9457,7 +9777,7 @@
     {
         "path": "/transform-your-closet-the-ultimate-guide-to-decluttering-and-organizing/index.html",
         "type": "file",
-        "md5": "a60b36d3c0f55fbc828bf0fd6f464104"
+        "md5": "c3f68d3b811b65d52b40bd0efb0fdb11"
     },
     {
         "path": "travis-mckinney",
@@ -9477,7 +9797,7 @@
     {
         "path": "/vacuum-or-broom-which-is-best-for-hard-floors/index.html",
         "type": "file",
-        "md5": "d08b071b6b0c0b20b7973f63d3a37f5e"
+        "md5": "2e6ad86a9d6df8b3462d43d58fe5d531"
     },
     {
         "path": "vay-vay-nicole",
@@ -9507,7 +9827,17 @@
     {
         "path": "/wash-sheets-and-towels-together/index.html",
         "type": "file",
-        "md5": "d63a54eba04694f58812771f9318de37"
+        "md5": "44f449857eaae23136610437d97831ba"
+    },
+    {
+        "path": "what-to-expect-when-you-book-with-maid-4-cleaning",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/what-to-expect-when-you-book-with-maid-4-cleaning/index.html",
+        "type": "file",
+        "md5": "0f10f77b46180fa5ca130e589f402fe2"
     },
     {
         "path": "where-to-store-cleaning-supplies-a-guide-to-safety-and-organization",
@@ -9517,7 +9847,7 @@
     {
         "path": "/where-to-store-cleaning-supplies-a-guide-to-safety-and-organization/index.html",
         "type": "file",
-        "md5": "92e1ff9c79365a58e555c70a36082c93"
+        "md5": "e9c211c3f254c795aab9d691df44339e"
     },
     {
         "path": "why-a-clean-house-feels-so-good-the-therapeutic-power-of-tidy-spaces",
@@ -9527,7 +9857,7 @@
     {
         "path": "/why-a-clean-house-feels-so-good-the-therapeutic-power-of-tidy-spaces/index.html",
         "type": "file",
-        "md5": "1374b525ba7a2547fdeb8d2bdc955d53"
+        "md5": "e7b04d245516ca4ec96156e60717d47a"
     },
     {
         "path": "why-are-there-yellow-drips-on-my-bathroom-walls",
@@ -9547,7 +9877,17 @@
     {
         "path": "/your-guide-to-cleaning-glass-shower-doors/index.html",
         "type": "file",
-        "md5": "a4caae6281b35b9a2c564742f32d6721"
+        "md5": "a899b7c95be50fc3fe8bbe3f2312bde1"
+    },
+    {
+        "path": "your-ultimate-guide-to-an-organized-garage",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/your-ultimate-guide-to-an-organized-garage/index.html",
+        "type": "file",
+        "md5": "fbaff4fd139a4225a4fac32e49ea618a"
     },
     {
         "path": "zoe-onyun",

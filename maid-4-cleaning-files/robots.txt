@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://maid-4-cleaning.com/sitemap.xml
